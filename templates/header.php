@@ -18,7 +18,7 @@
             <a href="#" class="brand-logo brand-text">
                 TheDarwinProject
                 <ul id="nav-mobile" class="right hide-on-small-and-down">
-                    <li><a href="#" class="btn brand z-depth-0">Add A Project</a></li>
+                    <li><a href="Add.php" class="btn brand z-depth-0">Book A Project</a></li>
                 </ul>
             </a>
         </div>
