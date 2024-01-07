@@ -1,0 +1,10 @@
+.brand{
+    background-color: #2200ffa5  !important;
+    border-radius:4px ;
+}
+
+.brand-text{
+    color:  #2200ffa5  !important;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
