@@ -15,3 +15,8 @@ form {
     padding: 20px;
     
 }
+
+.error-msg{
+    color: red;
+    font-size: 10px;
+}
