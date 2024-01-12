@@ -1,4 +1,7 @@
-<?php
+ <?php
+   
+   $conn = mysqli_connect('localhost' , 'root', '', 'thedarwinproject');
+
 
 ?>
 
@@ -8,4 +11,4 @@
  
    <?php include('templates/footer.php');?>
 
-</html>
+</html> 
